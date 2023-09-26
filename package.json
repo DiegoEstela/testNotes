@@ -1,0 +1,17 @@
+{
+  "name": "testnotes",
+  "version": "1.0.0",
+  "description": "react testing course notes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "role-notes" : "npx rtl-book serve roles-notes.js",
+    "query-notes" : "npx rtl-book serve query-notes.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/DiegoEstela/testNotes.git"
+  },
+  "author": "Diego Estela",
+  "license": "ISC"
+}
