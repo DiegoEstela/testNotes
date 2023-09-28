@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "role-notes" : "npx rtl-book serve roles-notes.js",
     "query-notes" : "npx rtl-book serve query-notes.js",
-    "criteria-notes" : "npx rtl-book serve criteria-notes.js"
+    "criteria-notes" : "npx rtl-book serve criteria-notes.js",
+    "matcher-notes" : "npx rtl-book serve matcher-notes.js"
   },
   "repository": {
     "type": "git",
