@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "role-notes" : "npx rtl-book serve roles-notes.js",
-    "query-notes" : "npx rtl-book serve query-notes.js"
+    "query-notes" : "npx rtl-book serve query-notes.js",
+    "criteria-notes" : "npx rtl-book serve criteria-notes.js"
   },
   "repository": {
     "type": "git",
